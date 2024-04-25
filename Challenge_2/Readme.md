@@ -1,4 +1,4 @@
-# KodeKloud Terraform Challenge
+# KodeKloud Terraform Challenge 2
 
 ## Description
 

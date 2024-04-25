@@ -1,4 +1,4 @@
-## EC2 Challenge
+## KodeKloud Terraform Challenge 3
 
 ## Description
 
